@@ -32,7 +32,6 @@ function Grid() {
       adjacentIndices.splice(1, 1); // Remove right adjacent square
     }
 
-    // Toggle the selected class for the clicked square
     newSquares[index] = !newSquares[index];
 
     adjacentIndices.forEach(adjacentIndex => {

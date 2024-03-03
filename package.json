@@ -27,5 +27,6 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.1.4"
   },
-  "homepage": "https://jeremykaku.github.io/ec-react/"
+  "homepage": "https://jeremykaku.github.io/ec-react/",
+  "base": "/ec-react/"
 }
